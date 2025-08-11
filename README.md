@@ -1,2 +1,9 @@
-# math-question-generator
-Python script to generate math questions in Word/docx format
+# Math Question Generator
+
+Generates math questions in Word (.docx) format.
+
+## How to Use
+
+1. Install requirements:
+   ```bash
+   pip install -r requirements.txt
