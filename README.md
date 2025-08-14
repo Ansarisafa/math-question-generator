@@ -16,6 +16,13 @@ A Python tool that automatically generates standardized math assessments with:
 | **Visual Aids**    | Auto-generated diagrams |
 | **Standards**      | Aligned with Quantitative Math curriculum |
 
+## Example Output
+# Question 1  
+[Uniform combination problem with table]  
+
+# Question 2  
+[Geometry problem with embedded diagram]  
+
 ## 🛠️ Installation
 ```bash
 # Clone repository
